@@ -9,13 +9,15 @@ Autonomous driving systems must have the ability to fully understand and predict
 ## Method Overview 
 <img src="./pics/fig_2.pdf" style="width:90%;">
 
-Systematic overview of the proposed \emph{Dual predictions integrated planning} (\textbf{DP3}) framework. DP3 is established upon query-based ADS co-design optimizations of interactive planning with dual predictions integration (IPP and IOP), informed by BEV perceptions. With encoded perception scene context $Q_{Map}, Q_B, Q_A$, DP3 delivers predictions planning co-design in three-fold. Joint occupancy prediction $\hat{\textbf{O}}$ are iteratively refined in \textbf{MS-OccFormer}, sharing mutual consistency over marginal motion prediction $\hat{\textbf{Y}}$ in \textbf{GTFormer}, which performs interactive reasoning between marginal prediction and planning. Reasoned outcomes and ego features are served to query dual predictions-aware planning $\tau$ in \textbf{Ego Planner}. Eventually, optimizations are scheduled to refine planning $\tau^*$ with dual predictions guidance.
+Systematic overview of the proposed Dual predictions integrated planning (***DP3***) framework. DP3 is established upon query-based ADS co-design optimizations of interactive planning with dual predictions integration (IPP and IOP), informed by BEV perceptions. With encoded perception scene context $Q_{Map}, Q_B, Q_A$, DP3 delivers predictions planning co-design in three-fold. Joint occupancy prediction $\hat{\textbf{O}}$ are iteratively refined in **MS-OccFormer**, sharing mutual consistency over marginal motion prediction $\hat{\textbf{Y}}$ in **GTFormer**, which performs interactive reasoning between marginal prediction and planning. Reasoned outcomes and ego features are served to query dual predictions-aware planning $\tau$ in **Ego Planner**. Eventually, optimizations are scheduled to refine planning $\tau^*$ with dual predictions guidance.
 
 
 
 
 ## Acknowledgements
 
-RL implementations are based on [tf2rl](https://github.com/keiohta/tf2rl) 
+Official release for our previous work: 
 
-Official release for the strong baselines: [DrQ](https://github.com/denisyarats/drq); [Decision-Transformer](https://github.com/kzl/decision-transformer)
+[DIPP](https://github.com/MCZhi/DIPP); 
+
+[GameFormer](https://github.com/MCZhi/GameFormer)
