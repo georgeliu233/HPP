@@ -9,4 +9,8 @@ This repo is the implementation of the following paper:
 
 # Get Started
 
-Code will be released after publications
+### 1.Codes
+Full code will be released after publications
+
+### 2.Downloads
+Model weights and logs will be released soon
