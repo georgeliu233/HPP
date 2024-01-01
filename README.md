@@ -1,4 +1,4 @@
-# Scene-Rep-Transformer
+# DP3
 
 This repo is the implementation of the following paper:
 
