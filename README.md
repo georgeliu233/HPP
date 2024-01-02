@@ -1,4 +1,4 @@
-# DP3
+# DPP
 
 This repo is the implementation of the following paper:
 
