@@ -14,3 +14,16 @@ Full code will be released after publications
 
 ### 2.Downloads
 Model weights and logs will be released soon
+
+
+## Acknowledgements
+
+Official release for our previous work: 
+
+-[DIPP](https://github.com/MCZhi/DIPP) 🔥 
+
+-[GameFormer](https://github.com/MCZhi/GameFormer) 🚀 
+
+-[STrajNet](https://github.com/georgeliu233/STrajNet) 🚀 
+
+-[OPGP](https://github.com/georgeliu233/OPGP) 🚀 
