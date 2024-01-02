@@ -16,7 +16,7 @@ Full code will be released after publications
 Model weights and logs will be released soon
 
 
-## Acknowledgements
+# Useful Resources
 
 Official release for our previous work: 
 
