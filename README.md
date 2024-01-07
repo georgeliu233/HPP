@@ -24,7 +24,7 @@ The planner outputs a planned trajectory at each time step, which is used to sim
 
 | <video muted controls width=380> <source src="./pics/a1bdf5c2af01557a.avi"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./pics/c45f2781605c47f0.avi"  type="video/mp4"> </video> |
 
-
+<div align=center><img src="./pics/womd_legend.png" style="width:60%;"></div>
 
 ## Acknowledgements
 
