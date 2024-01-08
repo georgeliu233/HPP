@@ -6,7 +6,7 @@
 ## Abstract 
 Autonomous driving systems must have the ability to fully understand and predict their surrounding agents to make informed decisions in complex real-world scenarios. While recent advancements in learning-based systems have highlighted the integration between prediction and planning modules, they have also brought three major challenges: accurate predictions that align with perceptions, consistency between joint and agent-wise prediction patterns, and social coherence in prediction and planning. Inspired by this integrative nature, we introduce DPP, a dual-predictions integrated planning system that harnesses differentiable integration between prediction and planning. With context queries perceived from the bird's-eye view (BEV) space that are collectively encoded, DPP tackles the aforementioned challenges through three modules. First, we introduce occupancy prediction to align joint predictions with perceptions. Our proposed MS-OccFormer module aims to achieve multi-stage alignment per occupancy forecasting with consistent awareness from agent-wise motion predictions. Second, we propose a game-theoretic motion predictor termed GTFormer to model the interactive future among individual agents with their joint predictive awareness. Dual prediction patterns are concurrently integrated with Ego Planner and optimized with prediction guidance. DPP achieves state-of-the-art performance on the nuScenes dataset, demonstrating superior accuracy, safety, and consistency for end-to-end paradigms in prediction and planning. Moreover, we also report the long-term open-loop and closed-loop performance of DPP on the Waymo Open Motion Dataset and CARLA benchmark, demonstrating enhanced accuracy and compatibility over other integrated prediction and planning pipelines.
 
-<div align=center><img src="./pics/pic-1.png" style="width:40%;"></div>
+<div align=center><img src="./pics/pic-1.png" style="width:60%;"></div>
 
 ## Method Overview 
 <div align=center><img src="./pics/fig_2.png" style="width:90%;"></div>
@@ -22,7 +22,7 @@ The planner outputs a planned trajectory at 2Hz. All agents are roll-outed by lo
 
 | <video muted controls width=380> <source src="./vids/6.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/7.mp4"  type="video/mp4"> </video> |
 
-<div align=center><img src="./pics/nuscene_legend.png" style="width:60%;"></div>
+<div align=center><img src="./pics/nuscene_legend.png" style="width:40%;"></div>
 
 ## Closed-loop Planning (WOMD)
 The planner outputs and optimizes a planned trajectory at 2Hz. The ego vehicle’s state are simulated accordingly at future time steps. The other agents are replayed from the log according to their observed states in the dataset.
