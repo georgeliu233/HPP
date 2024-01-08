@@ -13,7 +13,13 @@ Autonomous driving systems must have the ability to fully understand and predict
 
 Systematic overview of the proposed Dual predictions integrated planning (***DPP***) framework. DPP is established upon query-based ADS co-design optimizations of interactive planning with dual predictions integration (IPP and IOP), informed by BEV perceptions. With encoded perception scene context, DPP delivers predictions planning co-design in three-fold. Joint occupancy prediction are iteratively refined in **MS-OccFormer**, sharing mutual consistency over marginal motion prediction in **GTFormer**, which performs interactive reasoning between marginal prediction and planning. Reasoned outcomes and ego features are served to query dual predictions-aware planning in **Ego Planner**. Eventually, optimizations are scheduled to refine planning with dual predictions guidance.
 
+## Open-loop Planning (nuScenes)
+The planner outputs a planned trajectory at each time step. All agents are replayed in the dataset. 
+| <video muted controls width=380> <source src="./vids/1.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/2.mp4"  type="video/mp4"> </video> |
 
+| <video muted controls width=380> <source src="./vids/3"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/5.mp4"  type="video/mp4"> </video> |
+
+| <video muted controls width=380> <source src="./vids/6"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/7.mp4"  type="video/mp4"> </video> |
 
 ## Closed-loop Planning (WOMD)
 The planner outputs a planned trajectory at each time step, which is used to simulate the vehicle’s state at the next time step. The other agents are replayed from a log according to their observed states in the dataset.
