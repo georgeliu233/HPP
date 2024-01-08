@@ -18,9 +18,9 @@ The planner outputs a planned trajectory at each time step. All agents are repla
 
 | <video muted controls width=380> <source src="./vids/1.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/2.mp4"  type="video/mp4"> </video> |
 
-| <video muted controls width=380> <source src="./vids/3"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/5.mp4"  type="video/mp4"> </video> |
+| <video muted controls width=380> <source src="./vids/3.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/5.mp4"  type="video/mp4"> </video> |
 
-| <video muted controls width=380> <source src="./vids/6"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/7.mp4"  type="video/mp4"> </video> |
+| <video muted controls width=380> <source src="./vids/6.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/7.mp4"  type="video/mp4"> </video> |
 
 <div align=center><img src="./pics/nuscene_legend.png" style="width:80%;"></div>
 
