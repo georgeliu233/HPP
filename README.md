@@ -7,6 +7,8 @@ This repo is the implementation of the following paper:
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
 <br> **[[Project Website]](https://georgeliu233.github.io/DPP/)**
 
+https://github.com/georgeliu233/DPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371c0666e44
+
 # Get Started
 
 ### 1.Codes
