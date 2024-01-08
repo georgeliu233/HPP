@@ -22,7 +22,7 @@ The planner outputs a planned trajectory at each time step. All agents are repla
 
 | <video muted controls width=380> <source src="./vids/6.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/7.mp4"  type="video/mp4"> </video> |
 
-<div align=center><img src="./pics/nuscene_legend.png" style="width:80%;"></div>
+<div align=center><img src="./pics/nuscene_legend.png" style="width:60%;"></div>
 
 ## Closed-loop Planning (WOMD)
 The planner outputs a planned trajectory at each time step, which is used to simulate the vehicle’s state at the next time step. The other agents are replayed from a log according to their observed states in the dataset.
