@@ -15,6 +15,7 @@ Systematic overview of the proposed Dual predictions integrated planning (***DPP
 
 ## Open-loop Planning (nuScenes)
 The planner outputs a planned trajectory at each time step. All agents are replayed in the dataset. 
+
 | <video muted controls width=380> <source src="./vids/1.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/2.mp4"  type="video/mp4"> </video> |
 
 | <video muted controls width=380> <source src="./vids/3"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./vids/5.mp4"  type="video/mp4"> </video> |
