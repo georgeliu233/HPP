@@ -9,7 +9,7 @@ Autonomous driving systems must have the ability to fully understand and predict
 <div align=center><img src="./pics/pic-1.png" style="width:60%;"></div>
 
 ## Method Overview 
-<div align=center><img src="./pics/fig_2.png" style="width:90%;"></div>
+<div align=center><img src="./pics/fig2.png" style="width:90%;"></div>
 
 Systematic overview of the proposed Dual predictions integrated planning (***DPP***) framework. DPP is established upon query-based ADS co-design optimizations of interactive planning with dual predictions integration (IPP and IOP), informed by BEV perceptions. With encoded perception scene context, DPP delivers predictions planning co-design in three-fold. Joint occupancy prediction are iteratively refined in **MS-OccFormer**, sharing mutual consistency over marginal motion prediction in **GTFormer**, which performs interactive reasoning between marginal prediction and planning. Reasoned outcomes and ego features are served to query dual predictions-aware planning in **Ego Planner**. Eventually, optimizations are scheduled to refine planning with dual predictions guidance.
 
