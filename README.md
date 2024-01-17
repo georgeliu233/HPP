@@ -1,15 +1,15 @@
-# DPP
+# HPP
 
 This repo is the implementation of the following paper:
 
-**Dual Predictions Integrated Planning for Autonomous Driving**
+**Hybrid Predictions Integrated Planning for Autonomous Driving**
 <br> [Haochen Liu](https://scholar.google.com/citations?user=iizqKUsAAAAJ&hl=en), [Zhiyu Huang](https://mczhi.github.io/), [Wenhui Huang](https://scholar.google.com/citations?user=Hpatee0AAAAJ&hl=en), [Haohan Yang](https://scholar.google.com/citations?user=KmKMahwAAAAJ&hl=en), [Xiaoyu Mo](https://scholar.google.com/citations?user=JUYVmAQAAAAJ&hl=zh-CN),  [Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en)
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
-<br> **[[Project Website]](https://georgeliu233.github.io/DPP/)**
+<br> **[[Project Website]](https://georgeliu233.github.io/HPP/)**
 
-![fig2](https://github.com/georgeliu233/DPP/assets/46886579/2161f72a-630c-4c8b-80e1-2170251d14f8)
+![fig2](https://github.com/georgeliu233/HPP/assets/46886579/2161f72a-630c-4c8b-80e1-2170251d14f8)
 
-https://github.com/georgeliu233/DPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371c0666e44
+https://github.com/georgeliu233/HPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371c0666e44
 
 # Get Started
 
