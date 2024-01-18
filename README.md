@@ -7,7 +7,7 @@ This repo is the implementation of the following paper:
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
 <br> **[[Project Website]](https://georgeliu233.github.io/HPP/)**
 
-![fig2](https://github.com/georgeliu233/HPP/assets/46886579/2161f72a-630c-4c8b-80e1-2170251d14f8)
+![](pics/fig2.png)
 
 https://github.com/georgeliu233/HPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371c0666e44
 
