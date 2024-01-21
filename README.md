@@ -1,4 +1,4 @@
-# Hybrid Predictions Integrated Planning for Autonomous Driving
+# Hybrid Prediction Integrated Planning for Autonomous Driving
 [Haochen Liu](https://scholar.google.com/citations?user=iizqKUsAAAAJ&hl=en), [Zhiyu Huang](https://mczhi.github.io/),[Wenhui Huang](https://scholar.google.com/citations?user=Hpatee0AAAAJ&hl=en),[Haohan Yang](https://scholar.google.com/citations?user=KmKMahwAAAAJ&hl=en), [Xiaoyu Mo](https://scholar.google.com/citations?user=JUYVmAQAAAAJ&hl=zh-CN), [Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en)
 
 [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
@@ -36,7 +36,6 @@ The planner outputs and optimizes a planned trajectory at 2Hz. The ego vehicleâ€
 <div align=center><img src="./pics/womd_legend.png" style="width:80%;"></div>
 
 ## Acknowledgements
-
 Official release for our previous work: 
 
 -[DIPP](https://github.com/MCZhi/DIPP) [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
