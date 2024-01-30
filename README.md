@@ -36,6 +36,6 @@ Official release for our previous work:
 
 We also acknowledge the immense assistance and proofread from [Li Chen](https://scholar.google.com/citations?user=ulZxvY0AAAAJ&hl=en) [@OpenDriveLab](https://github.com/OpenDriveLab) and the open-source repo:
 
--[UniAD](https://github.com/OpenDriveLab/UniAD)
+-[UniAD](https://github.com/OpenDriveLab/UniAD) 🔥 
 
--[ST-P3](https://github.com/OpenDriveLab/ST-P3)
+-[ST-P3](https://github.com/OpenDriveLab/ST-P3) 🚀 
