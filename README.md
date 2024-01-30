@@ -47,4 +47,7 @@ Official release for our previous work:
 -[OPGP](https://github.com/georgeliu233/OPGP) [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
 
 We also acknowledge the immense assistance and proofread from [Li Chen](https://scholar.google.com/citations?user=ulZxvY0AAAAJ&hl=en) [@OpenDriveLab](https://github.com/OpenDriveLab) and the open-source repo:
+
 -[UniAD](https://github.com/OpenDriveLab/UniAD)
+
+-[ST-P3](https://github.com/OpenDriveLab/ST-P3)
