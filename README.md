@@ -7,6 +7,12 @@ This repo is the implementation of the following paper:
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
 <br> **[[Arxiv]](https://arxiv.org/pdf/2402.02426.pdf)** **[[Project Website]](https://georgeliu233.github.io/HPP/)**
 
+## General Info
+- ```2024.06```: Our variant implementations of HPP , which is named by DOPP, has won the **champion for 2024 Waymo Occupancy and Flow Prediction Challenge**
+- 🥇[**2024 Waymo Occupancy and Flow Prediction**](https://waymo.com/open/challenges/)   
+- 🚗[**CVPR2024 Workshop on Autonomous Driving website**](https://cvpr2024.wad.vision)
+- ```2024.02```: Our implementation has achieved SOTA performance on multiple benchmarks, showcasing consistent modular co-design and optimization:
+
 ![](pics/fig2.png)
 
 https://github.com/georgeliu233/HPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371c0666e44
