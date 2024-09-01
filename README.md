@@ -9,10 +9,13 @@ This repo is the implementation of the following paper:
 
 ## General Info
 - ```2024.06```: Our variant implementations of HPP , which is named by DOPP, has won the **champion for 2024 Waymo Occupancy and Flow Prediction Challenge**:
-
+  
   🥇 [**2024 Waymo Occupancy and Flow Prediction**](https://waymo.com/open/challenges/)
   
   🚗 [**CVPR2024 Workshop on Autonomous Driving website**](https://cvpr2024.wad.vision)
+
+  📄 [**Checkout the Technical Report here**](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%20Occupancy%20Flow%20Challenge%20-%201st%20Place%20-%20DOPP.pdf)
+  
   
 - ```2024.02```: Our implementation has achieved SOTA performance on multiple benchmarks, showcasing consistent modular co-design and optimization;
 
