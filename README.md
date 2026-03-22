@@ -26,10 +26,11 @@ https://github.com/georgeliu233/HPP/assets/46886579/55ed43b6-1e73-45a1-8180-b371
 # Get Started
 
 ### 1.Codes
-Full code will be released soon
+Follow the regular UniAD / VAD pipeline for model training / evaluation.
 
 ### 2.Downloads
-Model weights and logs will be released soon
+You may download model weights from here:
+[model weights](https://entuedu-my.sharepoint.com/:u:/g/personal/haochen002_e_ntu_edu_sg/EYc77N5AYNlAmBcOvY0HKD8BrmBIAFZF2RDNh1uhjVY1sw?e=xcuhv3)
 
 
 # Useful Resources
